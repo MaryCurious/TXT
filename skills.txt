@@ -1,7 +1,7 @@
 1) Теория тестирования
 2) Тестовая документация
 3) Команды GitBash
-4) JavaScrypt
+4) JavaScript
 5) Postman
 6) Снифферы Charles Fiddler
 7) SQL
