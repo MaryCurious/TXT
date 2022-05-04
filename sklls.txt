@@ -3,5 +3,5 @@
 3) Команды GitBash
 4) JavaScrypt
 5) Postman
-6) Снифферы CharlesAndFiddler
+6) Снифферы Charles Fiddler
 7) SQL
